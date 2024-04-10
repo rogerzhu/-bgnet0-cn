@@ -1,0 +1,2 @@
+RemoveHandler .py                          
+AddType text/plain py
