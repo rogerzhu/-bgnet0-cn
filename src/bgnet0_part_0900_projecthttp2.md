@@ -2,15 +2,7 @@
 # 项目：一个更好的的网站服务器
 
 现在，我们可以升级我们的网站服务器，使其可以传输真实的文件！当一个网页客户端（在本项目中，我们将会使用网页浏览器）请求一个特定的文件时，该服务端程序会将文件返回给客户端。在实现的过程中，你会学会相当多有趣的细节。
-Time to improve the web server so that it serves actual files!
 
-We're going to make it so that when a web client (in this case we'll use
-a browser) requests a specific file, the webserver will return that
-file.
-
-There are some interesting details to be found along the way.
-
-## Restrictions
 ## 限制
 
 为了能够更好的理解和学习底层套接字API的知识，在本项目中将**不会**使用以下辅助函数:
@@ -53,7 +45,7 @@ Content-Type: text/html
 Content-Length: 357
 Connection: close
 
-<!DOCtype html>
+<!DOCTYPE html>
 
 <html>
 <head>
