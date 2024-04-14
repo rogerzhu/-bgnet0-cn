@@ -1,4 +1,4 @@
-# 附录：位运算 {#appendix-bitwise}
+# 附录：位运算{#appendix-bitwise}
 
 在本节中，我们将会复习 _位运算操作_。
 
