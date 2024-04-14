@@ -12,12 +12,10 @@
 
 但是还是要事先提醒下:本指南假定您已经掌握了一些Python编程知识。
 
-## Official Homepage
 ## 官方网址
 以下是本指南的官方网址
 [fl[https://beej.us/guide/bgnet0/|https://beej.us/guide/bgnet0/]].
 
-## Email Policy
 ## 邮件规则
 如果你有问题，欢迎给我发邮件，我很乐意通过邮件收到您的问题。不过因为我平时确实很忙，有些问题我可能没法想出一个合适的答案。所以在这种情况下，我通常会删除这条邮件。这不是针对个人的，我只是永远没有时间给你所需要的合适的答案。 
 
@@ -27,11 +25,9 @@
 
 既然我已经赘述了很多关于写信和不写信给我的信息，我只是想让你知道，我_非常感激_这些年来对本指南所得到的所有赞扬。这真的让我深受鼓舞，特别是听到它对于您有所帮助!`:-)`,谢谢!
 
-## Mirroring
 ## 备份
 欢迎备份本指南，无论是公开的还是您私享。如果您做了一个公开的备份并且想让我给您在主页上加一个链接，请给我写份邮件说明[`beej@beej.us`](mailto:beej@beej.us)。 
 
-## Note for Translators
 ## 给翻译者的话
 如果您想讲本文翻译成其它语言，请给我写份邮件[`beej@beej.us`](beej@beej.us)，我会在首页给您的翻译加上一个入口。随信请加上您的名字和联系信息。
 
@@ -62,7 +58,6 @@ guide to their students.
 
 Contact [`beej@beej.us`](beej@beej.us) for more information.
 
-## Dedication
 ## 题献
 
 在写本指南的过程中，我觉得最难的有如下几点： 
